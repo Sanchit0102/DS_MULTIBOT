@@ -1,0 +1,42 @@
+{   
+    "bot1": {
+        "source": "https://github.com/searchingshiv/NTEDITED.git",
+        "branch": "main",
+        "env": {
+            "TG_BOT_TOKEN": "bass-bot-token-dalo"
+        },
+        "run": "main.py"
+    },
+    "bot2": {
+        "source": "https://github.com/searchingshiv/NTEDITED.git",
+        "branch": "main",
+        "env": {
+            "TG_BOT_TOKEN": "bot-token-2"
+        },
+        "run": "main.py"
+    },
+    "bot3": {
+        "source": "https://github.com/searchingshiv/NTEDITED.git",
+        "branch": "main",
+        "env": {
+            "TG_BOT_TOKEN": "bot-token-3"
+        },
+        "run": "main.py"
+    },
+    "bot4": {
+        "source": "https://github.com/searchingshiv/NTEDITED.git",
+        "branch": "main",
+        "env": {
+            "TG_BOT_TOKEN": "bot-token-4"
+        },
+        "run": "main.py"
+    },
+    "bot5": {
+        "source": "https://github.com/searchingshiv/NTEDITED.git",
+        "branch": "main",
+        "env": {
+            "TG_BOT_TOKEN": "bot-token-5"
+        },
+        "run": "main.py"
+    }
+}

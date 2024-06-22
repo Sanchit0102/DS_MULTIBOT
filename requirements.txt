@@ -1,0 +1,12 @@
+flask
+Werkzeug==2.2.2  
+
+# --- For-Bot-Working --------- #
+pyrogram
+TgCrypto
+pyromod==1.5
+# --- For-Database ------------ #
+pymongo
+dnspython
+# --- For-Web-Response ------- #
+aiohttp

@@ -1,6 +1,6 @@
 flask
 Werkzeug==2.2.2  
-
+requests
 # --- For-Bot-Working --------- #
 pyrogram
 TgCrypto

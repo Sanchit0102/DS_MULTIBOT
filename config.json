@@ -1,6 +1,6 @@
 {   
     "bot1": {
-        "source": "https://github.com/searchingshiv/NTEDITED.git",
+        "source": "https://github.com/Sanchit0102/NTEDITED.git",
         "branch": "main",
         "env": {
             "TG_BOT_TOKEN": "7211101354:AAEfuC2XK5A1BBcek14GK6ULw5LppPrS9WA"
@@ -8,7 +8,7 @@
         "run": "main.py"
     },
     "bot2": {
-        "source": "https://github.com/searchingshiv/NTEDITED.git",
+        "source": "https://github.com/Sanchit0102/NTEDITED.git",
         "branch": "main",
         "env": {
             "TG_BOT_TOKEN": "7496766452:AAH2OMxhu8h7mpTNabNOcYgOBYYqFIWDOuo"
@@ -16,7 +16,7 @@
         "run": "main.py"
     },
     "bot3": {
-        "source": "https://github.com/searchingshiv/NTEDITED.git",
+        "source": "https://github.com/Sanchit0102/NTEDITED.git",
         "branch": "main",
         "env": {
             "TG_BOT_TOKEN": "7016777070:AAFv3_64vEyivvXeRyY75Q_KddmfdGR5Mew"
@@ -24,7 +24,7 @@
         "run": "main.py"
     },
     "bot4": {
-        "source": "https://github.com/searchingshiv/NTEDITED.git",
+        "source": "https://github.com/Sanchit0102/NTEDITED.git",
         "branch": "main",
         "env": {
             "TG_BOT_TOKEN": "6963944721:AAHVHnVwbK3xHMgGEDuYG0KTlZ92XKST7m8"
@@ -32,7 +32,7 @@
         "run": "main.py"
     },
     "bot5": {
-        "source": "https://github.com/searchingshiv/NTEDITED.git",
+        "source": "https://github.com/Sanchit0102/NTEDITED.git",
         "branch": "main",
         "env": {
             "TG_BOT_TOKEN": "6789667218:AAGWyCbbHvzKq2JBXGMgnXDslgOtMCryR_A"
